@@ -1,0 +1,2 @@
+# mynotesApp
+Privacy policy
